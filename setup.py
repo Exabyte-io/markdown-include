@@ -25,9 +25,8 @@ setup(
     ],
     install_requires=[
         "markdown",
-        "json_include_0_2_9"
     ],
     dependency_links=[
-        "git+https://git@github.com/Exabyte-io/json_include.git#egg=json_include_0_2_9"
+        "https://github.com/Exabyte-io/json_include.git#egg=json_include"
     ],
 )
