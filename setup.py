@@ -23,10 +23,5 @@ setup(
         'Programming Language :: Python :: 3.3',
         'Programming Language :: Python :: 3.4',
     ],
-    install_requires=[
-        "markdown",
-    ],
-    dependency_links=[
-        "https://github.com/Exabyte-io/json_include.git#egg=json_include"
-    ],
+    install_requires=["markdown"]
 )
