@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 setup(
     name='markdown-include',
     packages=find_packages(),
-    version='0.5.1',
+    version='0.5.2',
     description='This is an extension to Python-Markdown to include JSON content.',
     author='Mohammad Mohammadi',
     author_email='mohammad@exabyte.io',
