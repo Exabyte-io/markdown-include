@@ -1,0 +1,2 @@
+markdown
+git+git://github.com/Exabyte-io/json_include.git#egg=json_include
